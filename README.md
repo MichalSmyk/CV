@@ -1,4 +1,4 @@
-### Michal Smyk
+### [Michal Smyk](https://michalsmyk.com/)
 
 --------------------------------------------
 
