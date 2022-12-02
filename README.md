@@ -22,4 +22,39 @@ Chef        Jun 2021 - Aug 2021
 Organized kitchen area for better workflow and ensured that all paperwork is up to date and the the highest standard possible.
 
 May 2021 - Jul 2021, Coalition 
+Breakfast Chef
 
+I learned how to prepare myself and the kitchen for busy service in one of the busiest places on Brighton seafront. I mastered the skill of working well and effectively under pressure.
+
+Nov 2020 - May 2021  Breakfast at Tiffany's
+Breakfast chef 
+
+As an only cook I had to show strong self-managment in opening and closing the restaurant as awell as during the service. I made sure thet even working by myslef the quality of the service and food hasn't dropped.
+
+Jul 2018 - Nov 2020, Personnel Selection
+Health Care Assistant 
+As a care giver I had to display high degree of emotional maturity and antain strong self-control. Working with eldery people suffering from dementia I had to remain warm, genuine, relaxed and self-confident 
+
+
+
+Communication 
+Having experience in customer service I can understand better the person in front of me and speak with a positive tone and disagree without arguing. Dealing constantlky with the business managment and staff I learned how to communicate with ease and natural style as awell as negotiate with skill. I continuosly strive to improve my presentation skills to face any audience with confience.
+
+Leadership 
+I helped to inspire others to work together more affciently to reach shared goal. By prioritizin tasks I made sure my team compleded the most importatn ones first. My problem-solving skills helped to quickly resolve and eliminate any potential issues between team members. All of this has helped to work towards out main service goal: excel in customer experience.
+
+
+Skills 
+Forward-looking
+Logical
+Observant
+Strategic thinking
+Curious
+Self-learning
+Relationship building
+
+Languages
+Polish (native)
+English (fluent)
+Spanish (fluent)
+Italian (basic)
