@@ -4,15 +4,15 @@
 
 I am courius and analytical with common sense. Thanks to the different work places I have worked with, I became versatile to adapt myself to the different ways of work; gaining transferable skills help me to bring 'innovation' to new work places. As someone who loves learning new things and needs to stay busy at all time I find software developing world perceft for me.
 
-Work Experience
-
 --------------------------------------------
 
-Retaurant Manager, Longrain Jul 2021 - Aug 2022 
+#### **Work Experience**
+
+##### Retaurant Manager, Longrain Jul 2021 - Aug 2022 
 
 Having experience in both back and front of the house I improved organizational effectiveness and made sure I can be counted on to achieve results in emergency situations by:
 
-Restaurant Manager                      Aug 2021 - Aug 2022
+##### Restaurant Manager                      Aug 2021 - Aug 2022
 Set and use table planning option in the booking system to handle bookings and tables in a more efficient way and help staff to manage thier daily tasks. As a result the restaurant was able to take bookings from maxium of 6 guests to groups of 16+ people without overcharging the workload in the kitchen and floor and avoid overbookings.
 
 Liaise with designer to optimize the food and srinks menu to eliminate confusing to customers by adding a layout, and established a clear and meaningful criteria based on most sold items and this with the highest profit margin for effective performance.
