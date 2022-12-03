@@ -42,13 +42,20 @@ Having experience in both back and front of the house I improved organizational 
 
 * As a care giver I had to display high degree of emotional maturity and antain strong self-control. Working with eldery people suffering from dementia I had to remain warm, genuine, relaxed and self-confident 
 
+--------------------------------------------
 
 
 ### Communication 
 Having experience in customer service I can understand better the person in front of me and speak with a positive tone and disagree without arguing. Dealing constantlky with the business managment and staff I learned how to communicate with ease and natural style as awell as negotiate with skill. I continuosly strive to improve my presentation skills to face any audience with confience.
 
+--------------------------------------------
+
+
 ### Leadership 
 I helped to inspire others to work together more affciently to reach shared goal. By prioritizin tasks I made sure my team compleded the most importatn ones first. My problem-solving skills helped to quickly resolve and eliminate any potential issues between team members. All of this has helped to work towards out main service goal: excel in customer experience.
+
+
+--------------------------------------------
 
 ### Skills 
 * Forward-looking
@@ -58,6 +65,8 @@ I helped to inspire others to work together more affciently to reach shared goal
 * Curious
 * Self-learning
 * Relationship building
+
+--------------------------------------------
 
 ### Languages
 * Polish (native)
