@@ -23,7 +23,7 @@ Having experience in both back and front of the house I improved organizational 
 
 * Advised to the owners for the uses of an spreadsheets application to manage stock with the purpose of trackking costs, identify stored stock and stock required as well as help with budged managment.
 
-#### Chef            Jun 2021 - Aug 2021
+#### *Chef            Jun 2021 - Aug 2021
 
 * Organized kitchen area for better workflow and ensured that all paperwork is up to date and the the highest standard possible.
 
