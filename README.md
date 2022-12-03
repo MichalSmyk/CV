@@ -4,8 +4,12 @@
 
 I am courius and analytical with common sense. Thanks to the different work places I have worked with, I became versatile to adapt myself to the different ways of work; gaining transferable skills help me to bring 'innovation' to new work places. As someone who loves learning new things and needs to stay busy at all time I find software developing world perceft for me.
 
-Work Experience 
-Jul 2021 - Aug 2022 - Retaurant Manager, Longrain
+Work Experience
+
+--------------------------------------------
+
+Retaurant Manager, Longrain Jul 2021 - Aug 2022 
+
 Having experience in both back and front of the house I improved organizational effectiveness and made sure I can be counted on to achieve results in emergency situations by:
 
 Restaurant Manager                      Aug 2021 - Aug 2022
