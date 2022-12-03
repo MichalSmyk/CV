@@ -23,7 +23,7 @@ Having experience in both back and front of the house I improved organizational 
 
 * Advised to the owners for the uses of an spreadsheets application to manage stock with the purpose of trackking costs, identify stored stock and stock required as well as help with budged managment.
 
-#### *Chef            Jun 2021 - Aug 2021
+##### Chef            Jun 2021 - Aug 2021
 
 * Organized kitchen area for better workflow and ensured that all paperwork is up to date and the the highest standard possible.
 
@@ -33,12 +33,12 @@ Having experience in both back and front of the house I improved organizational 
 * I learned how to prepare myself and the kitchen for busy service in one of the busiest places on Brighton seafront. I mastered the skill of working well and effectively under pressure.
 
   
-#### Breakfast chef, Breakfast at Tiffany's,         Nov 2020 - May 2021
+#### Breakfast chef, Breakfast at Tiffany's         Nov 2020 - May 2021
 
 * As an only cook I had to show strong self-managment in opening and closing the restaurant as awell as during the service. I made sure thet even working by myslef the quality of the service and food hasn't dropped.
 
 
-#### Health Care Assistant , Personnel Selection         Jul 2018 - Nov 2020
+#### Health Care Assistant, Personnel Selection         Jul 2018 - Nov 2020
 
 * As a care giver I had to display high degree of emotional maturity and antain strong self-control. Working with eldery people suffering from dementia I had to remain warm, genuine, relaxed and self-confident 
 
@@ -64,3 +64,4 @@ I helped to inspire others to work together more affciently to reach shared goal
 * English (fluent)
 * Spanish (fluent)
 * Italian (basic)
+
