@@ -6,13 +6,13 @@ I am courius and analytical with common sense. Thanks to the different work plac
 
 --------------------------------------------
 
-#### **Work Experience**
+### **Work Experience**
 
-##### Retaurant Manager, Longrain Jul 2021 - Aug 2022 
+#### Retaurant Manager, Longrain Jul 2021 - Aug 2022 
 
 Having experience in both back and front of the house I improved organizational effectiveness and made sure I can be counted on to achieve results in emergency situations by:
 
-##### Restaurant Manager                      Aug 2021 - Aug 2022
+#### Restaurant Manager                      Aug 2021 - Aug 2022
 Set and use table planning option in the booking system to handle bookings and tables in a more efficient way and help staff to manage thier daily tasks. As a result the restaurant was able to take bookings from maxium of 6 guests to groups of 16+ people without overcharging the workload in the kitchen and floor and avoid overbookings.
 
 Liaise with designer to optimize the food and srinks menu to eliminate confusing to customers by adding a layout, and established a clear and meaningful criteria based on most sold items and this with the highest profit margin for effective performance.
@@ -49,17 +49,16 @@ Having experience in customer service I can understand better the person in fron
 Leadership 
 I helped to inspire others to work together more affciently to reach shared goal. By prioritizin tasks I made sure my team compleded the most importatn ones first. My problem-solving skills helped to quickly resolve and eliminate any potential issues between team members. All of this has helped to work towards out main service goal: excel in customer experience.
 
+### Skills 
+* Forward-looking
+* Logical
+* Observant
+* Strategic thinking
+* Curious
+* Self-learning
+* Relationship building
 
-Skills 
-Forward-looking
-Logical
-Observant
-Strategic thinking
-Curious
-Self-learning
-Relationship building
-
-Languages
+### Languages
 * Polish (native)
 * English (fluent)
 * Spanish (fluent)
