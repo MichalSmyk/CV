@@ -1,8 +1,7 @@
-### [Michal Smyk](https://michalsmyk.com/)
+### Michal Smyk
 
 --------------------------------------------
-
-I am courius and analytical with common sense. Thanks to the different work places I have worked with, I became versatile to adapt myself to the different ways of work; gaining transferable skills help me to bring 'innovation' to new work places. As someone who loves learning new things and needs to stay busy at all time I find software developing world perceft for me.
+I am a passionate learner and problem solver with a strong desire to understand how things work. My adaptability and versatility have been honed through my experience in various work environments, which has given me a unique set of transferable skills that I can bring to new projects. I have a keen eye for identifying problems and turning them into opportunities for practical solutions, always keeping the end user in mind. My excellent communication skills and leadership abilities have been developed through my experience in customer service and managing teams. I am committed to continuous learning and improvement, and I am excited to apply my skills to the field of software engineering
 
 --------------------------------------------
 
