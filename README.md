@@ -17,7 +17,7 @@ Name | Description |Tech stack
 ### Education 
 #### Makers Academy Nov '22 - March '23
 
-As a graduate of the highly selective and intense Makers Academy Software Engineering Bootcamp, I have strengthened my programming skills through learning various concepts such as TDD, OOP, pair programming, and agile development with other developers. The course provided in-depth training on languages such as Ruby and JavaScript, as well as frameworks including Sinatra, React, Node.js, Express, and MERN stack. In addition, I gained practical experience in working with databases such as PostgreSQL and MongoDB, and developing web applications.
+As a graduate of the highly selective and intense Makers Academy Software Engineering Bootcamp, I have strengthened my programming skills through learning various concepts such as TDD, OOP, pair programming, and agile development. The course provided in-depth training on languages such as Ruby and JavaScript, as well as frameworks including Sinatra, React, Node.js, Express, and MERN stack. In addition, I gained practical experience in working with databases such as PostgreSQL and MongoDB, and developing web applications.
 
 --------------------------------------------
 
@@ -25,29 +25,29 @@ As a graduate of the highly selective and intense Makers Academy Software Engine
 
 #### Retaurant Manager, Longrain Jul 2021 - Aug 2022 
 
-Having experience in both back and front of the house I improved organizational effectiveness and made sure I can be counted on to achieve results in emergency situations by:
+Having experience in both back and front of the house I improved organisational effectiveness and made sure I can be counted on to achieve results in pressure situations by:
 
 #### Restaurant Manager         Aug 2021 - Aug 2022
-* Organizational effectiveness: As a restaurant manager, I improved organizational effectiveness and ensured that I can be counted on to achieve results in emergency situations. This skill is valuable in software engineering where projects have tight deadlines and unexpected issues can arise.
+* Organisational effectiveness: As a restaurant manager, I improved organisational effectiveness and ensured that I can be counted on to achieve results in emergency situations. This skill is valuable in software engineering where projects have tight deadlines and unexpected issues can arise.
 
-* Efficiency: I set and used the table planning option in the booking system to handle bookings and tables in a more efficient way and helped staff to manage their daily tasks. This skill can be applied in software engineering to optimize code and workflows for maximum efficiency.
+* Efficiency: I set and used the table planning option in the booking system to handle bookings and tables in a more efficient way and helped staff to manage their daily tasks. This skill can be applied in software engineering to optimise code and workflows for maximum efficiency.
 
-* Collaborating with designers: I liaised with a designer to optimize the food and drinks menu to eliminate confusing to customers by adding a layout, and established a clear and meaningful criteria based on most sold items and those with the highest profit margin for effective performance. This skill can be applied in software engineering when working with UX designers to create user-friendly interfaces.
+* Collaborating with designers: I liaised with a designer to optimize the food and drinks menu to eliminate confusion to customers by adding a layout. Established a clear and meaningful criteria based on most sold items and those with the highest profit margin for effective performance. This skill can be applied in software engineering when working with UX designers to create user-friendly interfaces.
 
-* Problem-solving: I reduced the workload of the waiting staff and the confusion in the kitchen by installing a printer in the server/pass area to print the orders as soon as an order is made. Customer service improved as waiting staff can focus on customers and plates arrive on time to the table and all together. This skill can be applied in software engineering when identifying and solving technical issues.
+* Problem-solving: I reduced the workload of the waiting staff and the confusion in the kitchen by installing a printer in the server/pass area to print the orders as soon as an order is made. Customer service improved as waiting staff can focus on customers and plates arrive on time to the  whole table at once. This skill can be applied in software engineering when identifying and solving technical issues.
 
-* Cost reduction: I made effective use of hands-on learning to issue myself the payslips in order to reduce cost, which helped me to understand better about economical utilization of personnel. This skill can be applied in software engineering when optimizing resource allocation and reducing project costs.
+* Cost reduction: I made effective use of hands-on learning to issue myself the payslips in order to reduce cost, which helped me to improve my understanding of economical utilization of personnel. This skill can be applied in software engineering when optimising resource allocation and reducing project costs.
 
 ##### Chef            Jun 2021 - Aug 2021
 
-* Organized kitchen area for better workflow and ensured that all paperwork is up to date and the the highest standard possible.
+* Organised kitchen area for better workflow and ensured that all paperwork is up to date and the the highest standard possible.
 
  
 #### Breakfast Chef, Coalition           May 2021 - Jul 2021
 
 * Demonstrated ability to handle high-pressure situations by successfully preparing for and managing busy service periods in a high-volume restaurant on Brighton seafront.
 
-* Acquired skills in effective time management and organization to ensure the kitchen and staff were well-prepared for incoming orders during peak periods.
+* Acquired skills in effective time management and organisation to ensure the kitchen and staff were well-prepared for incoming orders during peak periods.
 
 * Developed effective communication skills to coordinate with team members and manage customer expectations during high-pressure situations.
 
