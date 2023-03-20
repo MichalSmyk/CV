@@ -4,6 +4,22 @@
 I am a passionate learner and problem solver with a strong desire to understand how things work. My adaptability and versatility have been honed through my experience in various work environments, which has given me a unique set of transferable skills that I can bring to new projects. I have a keen eye for identifying problems and turning them into opportunities for practical solutions, always keeping the end user in mind. My excellent communication skills and leadership abilities have been developed through my experience in customer service and managing teams. I am committed to continuous learning and improvement, and I am excited to apply my skills to the field of software engineering
 
 --------------------------------------------
+### Projects 
+
+Name | Description |Tech stack
+----- | ------- | ------
+[Solved](https://github.com/MichalSmyk/Solved) | City Treasure Hunt | MERN, React Native
+[AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | A facebook clone | MERN
+[MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby Active Record
+[Bank Tech Test](https://github.com/MichalSmyk/bank-tech-test) | A test ot write clean code  | JavaScript 
+
+--------------------------------------------
+### Education 
+#### Makers Academy Nov '22 - March '23
+
+As a graduate of the highly selective and intense Makers Academy Software Engineering Bootcamp, I have strengthened my programming skills through learning various concepts such as TDD, OOP, pair programming, and agile development with other developers. The course provided in-depth training on languages such as Ruby and JavaScript, as well as frameworks including Sinatra, React, Node.js, Express, and MERN stack. In addition, I gained practical experience in working with databases such as PostgreSQL and MongoDB, and developing web applications.
+
+--------------------------------------------
 
 ### Work Experience
 
@@ -12,15 +28,15 @@ I am a passionate learner and problem solver with a strong desire to understand 
 Having experience in both back and front of the house I improved organizational effectiveness and made sure I can be counted on to achieve results in emergency situations by:
 
 #### Restaurant Manager         Aug 2021 - Aug 2022
-* Set and use table planning option in the booking system to handle bookings and tables in a more efficient way and help staff to manage thier daily tasks. As a result the restaurant was able to take bookings from maxium of 6 guests to groups of 16+ people without overcharging the workload in the kitchen and floor and avoid overbookings.
+* Organizational effectiveness: As a restaurant manager, I improved organizational effectiveness and ensured that I can be counted on to achieve results in emergency situations. This skill is valuable in software engineering where projects have tight deadlines and unexpected issues can arise.
 
-* Liaise with designer to optimize the food and srinks menu to eliminate confusing to customers by adding a layout, and established a clear and meaningful criteria based on most sold items and this with the highest profit margin for effective performance.
+* Efficiency: I set and used the table planning option in the booking system to handle bookings and tables in a more efficient way and helped staff to manage their daily tasks. This skill can be applied in software engineering to optimize code and workflows for maximum efficiency.
 
-* Reduced the work load of the waiting staff and the confusion in the kitchen by installing a printer in the service area to print orders as soon as the order was placed. Customer service improved as waiting staff could focus on customers.
+* Collaborating with designers: I liaised with a designer to optimize the food and drinks menu to eliminate confusing to customers by adding a layout, and established a clear and meaningful criteria based on most sold items and those with the highest profit margin for effective performance. This skill can be applied in software engineering when working with UX designers to create user-friendly interfaces.
 
-* Made efective use of hands-on learning to gerenate payslips myself in order to reduce cost, this helped me to understand better about economical utilization of personnel.
+* Problem-solving: I reduced the workload of the waiting staff and the confusion in the kitchen by installing a printer in the server/pass area to print the orders as soon as an order is made. Customer service improved as waiting staff can focus on customers and plates arrive on time to the table and all together. This skill can be applied in software engineering when identifying and solving technical issues.
 
-* Advised to the owners for the uses of an spreadsheets application to manage stock with the purpose of trackking costs, identify stored stock and stock required as well as help with budged managment.
+* Cost reduction: I made effective use of hands-on learning to issue myself the payslips in order to reduce cost, which helped me to understand better about economical utilization of personnel. This skill can be applied in software engineering when optimizing resource allocation and reducing project costs.
 
 ##### Chef            Jun 2021 - Aug 2021
 
@@ -29,7 +45,14 @@ Having experience in both back and front of the house I improved organizational 
  
 #### Breakfast Chef, Coalition           May 2021 - Jul 2021
 
-* I learned how to prepare myself and the kitchen for busy service in one of the busiest places on Brighton seafront. I mastered the skill of working well and effectively under pressure.
+* Demonstrated ability to handle high-pressure situations by successfully preparing for and managing busy service periods in a high-volume restaurant on Brighton seafront.
+
+* Acquired skills in effective time management and organization to ensure the kitchen and staff were well-prepared for incoming orders during peak periods.
+
+* Developed effective communication skills to coordinate with team members and manage customer expectations during high-pressure situations.
+
+* Demonstrated the ability to prioritize tasks and manage competing demands, contributing to the smooth and efficient functioning of the restaurant even during peak periods.
+
 
   
 #### Breakfast chef, Breakfast at Tiffany's         Nov 2020 - May 2021
@@ -43,27 +66,27 @@ Having experience in both back and front of the house I improved organizational 
 
 --------------------------------------------
 
-
-### Communication 
-Having experience in customer service I can understand better the person in front of me and speak with a positive tone and disagree without arguing. Dealing constantlky with the business managment and staff I learned how to communicate with ease and natural style as awell as negotiate with skill. I continuosly strive to improve my presentation skills to face any audience with confience.
-
---------------------------------------------
-
-
-### Leadership 
-I helped to inspire others to work together more affciently to reach shared goal. By prioritizin tasks I made sure my team compleded the most importatn ones first. My problem-solving skills helped to quickly resolve and eliminate any potential issues between team members. All of this has helped to work towards out main service goal: excel in customer experience.
-
-
---------------------------------------------
-
 ### Skills 
-* Forward-looking
-* Logical
+* HTML5, CSS
+* MongoDB
+* JavaScript
+* Node.js
+* Express
+* React, React Native
+* SQL
+* Ruby
+* Sinatra
+* MERN stack
+
+### Transversal skills 
+* Forward-looking 
+* Logical 
 * Observant
-* Strategic thinking
-* Curious
+* Strategic thinking 
+* Curious 
 * Self-learning
 * Relationship building
+* Problem-solving
 
 --------------------------------------------
 
