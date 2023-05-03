@@ -51,7 +51,7 @@ RESTful API, unit testing in Jest.
 
 ### Retaurant Manager, Longrain Jul 2021 - Aug 2022 
 
-* Organisational effectiveness: I ensured that I can be counted on to achieve results in high pressure situations. 
+* __Organisational effectiveness__: I ensured that I can be counted on to achieve results in high pressure situations. 
 
 * __Efficiency__: I set and used the table planning option in the booking system to handle bookings and tables in a more
 efficient way and helped to manage daily tasks. 
