@@ -1,14 +1,13 @@
 ### Michal Smyk
 
 --------------------------------------------
-I am a passionate learner and problem solver with a strong desire to understand how things work. My adaptability and
-versatility have been honed through my experience in various work environments, which has given me a unique set of
-transferable skills that I can bring to new projects. My passion for technology and software comes from my curiosity about how
-systems work, and I have a strong desire to create technologies that can help people with their daily tasks. I have a keen eye for
-identifying problems and turning them into opportunities for practical solutions, always keeping the end user in mind. My
-excellent communication skills and leadership abilities have been developed through my experience in customer service and
-managing teams. I am committed to continuous learning and improvement, and I am excited to apply my skills to the field of
-software engineering.  
+Eager to pivot into the tech industry, I am an adaptable problem solver with a passion for understanding complex systems. My
+background has shaped me into a versatile professional, equipped with a unique skill set ideal for tech-oriented roles. I'm
+fascinated by how software functions and am driven to leverage it to simplify everyday tasks. Skilled at identifying issues and
+transforming them into actionable solutions, I prioritize user experience. With proven leadership and communication skills,
+honed from prior customer service and team management roles, I am prepared to contribute to software engineering.
+Committed to continuous learning, I am excited to bring my capabilities to a new career in the tech industry.
+
 
 --------------------------------------------
 ### Projects 
