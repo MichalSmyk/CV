@@ -14,7 +14,7 @@ Committed to continuous learning, I am excited to bring my capabilities to a new
 
 Name | Description |Tech stack
 ----- | ------- | ------
-[Whisper Journal](https://github.com/MichalSmyk/whisper-journal) | AI powered Diary | React Native, Node.js, Express.js, MongoDD
+[Whisper Journal](https://github.com/MichalSmyk/whisper-journal) | AI powered Diary | React Native, Node.js, Express.js, MongoDB---
 [Solved](https://github.com/MichalSmyk/Solved) | City Treasure Hunt | MERN, React Native
 [AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | A social media app | MERN
 [MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An online rental app | PostgreSQL, Sinatra, Ruby Active Record
