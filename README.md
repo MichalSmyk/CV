@@ -1,12 +1,13 @@
 ### Michal Smyk
 
 --------------------------------------------
-Eager to pivot into the tech industry, I am an adaptable problem solver with a passion for understanding complex systems. My
-background has shaped me into a versatile professional, equipped with a unique skill set ideal for tech-oriented roles. I'm
-fascinated by how software functions and am driven to leverage it to simplify everyday tasks. Skilled at identifying issues and
-transforming them into actionable solutions, I prioritize user experience. With proven leadership and communication skills,
-honed from prior customer service and team management roles, I am prepared to contribute to software engineering.
-Committed to continuous learning, I am excited to bring my capabilities to a new career in the tech industry.
+I am an autodidact with a passion for problem-solving. During the 2020 lockdown, I started coding for fun and
+this hobby has led me to do a Software Engineering bootcamp with Makers Academy in 2022. My
+background has shaped me into a versatile professional, equipped with a unique skill set ideal for
+tech-oriented roles. I'm fascinated by how software functions and I enjoy developing applications to simplify
+everyday tasks. With proven leadership and communication skills, honed from prior customer service and
+team management roles, I am prepared to contribute to software engineering. Committed to continuous
+learning, I am excited to bring my capabilities to a new career in the tech industry
 
 
 --------------------------------------------
