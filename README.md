@@ -17,8 +17,8 @@ Name | Description |Tech stack
 ----- | ------- | ------
 [Whisper Journal](https://github.com/MichalSmyk/whisper-journal) | A dairy app powered by AI (this project is in progress). A diary/journal application that utilises a variety of AI APIs to provide personalised feedback, recommendations and mood/sentiment analysis.| React Native, Node.js, Express.js, MongoDB---
 [Solved](https://github.com/MichalSmyk/Solved) | A city treasure-hunting game, created as a final project during the Makers course by a team of 5 developers | React Native, MERN, image recognition, and API calls to 2 different services.
-[AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | This social media platform allows users to create profiles with a picture, share and like posts, and update their details. Created by a team of 6 developers during Makers. | MERN
-[MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An online rental app | PostgreSQL, Sinatra, Ruby Active Record
+[AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | This social media platform allows users to create profiles with a picture, share and like posts, and update their details. Created by a team of 6 developers during Makers. | CSS, MongoDB Atlas, Express, React, Node.js, and Cypress
+[MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An online rental app, created by a team of 6 developers at Makers. Users can register, log in, list their properties for rent, browse the listed properties, view the availability of properties, and submit booking requests. | CSS, JavaScript, React, Jest, Cypress, and GitHub.
 [Bank Tech Test](https://github.com/MichalSmyk/bank-tech-test) | A test to write clean code  | JavaScript 
 
 --------------------------------------------
