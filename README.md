@@ -16,7 +16,7 @@ learning, I am excited to bring my capabilities to a new career in the tech indu
 Name | Description |Tech stack
 ----- | ------- | ------
 [Whisper Journal](https://github.com/MichalSmyk/whisper-journal) | A dairy app powered by AI (this project is in progress). A diary/journal application that utilises a variety of AI APIs to provide personalised feedback, recommendations and mood/sentiment analysis.| React Native, Node.js, Express.js, MongoDB---
-[Solved](https://github.com/MichalSmyk/Solved) | City Treasure Hunt | MERN, React Native
+[Solved](https://github.com/MichalSmyk/Solved) | A city treasure-hunting game, created as a final project during the Makers course by a team of 5 developers | MERN, React Native
 [AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | A social media app | MERN
 [MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An online rental app | PostgreSQL, Sinatra, Ruby Active Record
 [Bank Tech Test](https://github.com/MichalSmyk/bank-tech-test) | A test to write clean code  | JavaScript 
