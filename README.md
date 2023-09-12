@@ -49,6 +49,12 @@ RESTful API, unit testing in Jest.
 
 ### Work Experience
 
+### Volunteer Software Developer, Pensano Developers - London/remote - (April 2023 – present)
+A platform that helps graduates to improve their tech skills by working collaboratively on meaningful projects.
+Since April I have been working on two projects with other developers: a hair tissue mineral analysis report
+and a meal plan generator (powered by AI). Our goal is to support doctors, dietitians and nutritionists with their
+workload. These projects will be presented in Autumn at The New School of Nutritional Medicine
+
 ### Retaurant Manager, Longrain Jul 2021 - Aug 2022 
 
 * __Organisational effectiveness__: I ensured that I can be counted on to achieve results in high pressure situations. 
